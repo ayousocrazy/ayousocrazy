@@ -63,13 +63,6 @@ I also enjoy designing logos and websites, because good code deserves good desig
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayousocrazy&show_icons=true&theme=dracula&cache_seconds=1800" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayousocrazy&layout=compact&theme=dracula&cache_seconds=1800" height="150"/>
-</div>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/ayousocrazy/ayousocrazy/output/snake.svg" alt="Snake animation"/>
 
 <h2 align="left">👀 Profile Views</h2>
