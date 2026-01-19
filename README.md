@@ -10,14 +10,36 @@
 </p>
 
 <p align="left">
-I’m a <b>Computer Science student</b> who likes turning ideas into working products —<br>
-from backend logic in Django to frontend interfaces with HTML, CSS & JS.<br><br>
-When I’m not debugging web apps,<br>
-I’m exploring AI and Data.<br><br>
-I also enjoy designing logos and websites, because good code deserves good design.
+I’m a Computer Science student who likes turning ideas into working products —<br/>
+from backend logic in Django to frontend interfaces with HTML, CSS & JS.<br/>
+When I’m not debugging web apps,<br/>
+I’m exploring AI and Data.<br/>
+I also enjoy designing logos.
 </p>
 
-<h2 align="left">🛠️ Things I Use</h2>
+---
+
+<h2 align="left">📫 Socials</h2>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/aayush-shrestha-bba56b36b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/@ayousocrazy" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ayousocrazy/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/ayousocrazy" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:ayousocrazy@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<h2 align="left">🛠️ Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40"/>
@@ -37,42 +59,30 @@ I also enjoy designing logos and websites, because good code deserves good desig
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
 </div>
 
-<h2 align="left">📫 Connect</h2>
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/aayush-shrestha-bba56b36b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
-
-  <a href="https://www.youtube.com/@ayousocrazy" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40"/>
-  </a>
-
-  <a href="https://www.instagram.com/ayousocrazy/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="40"/>
-  </a>
-
-  <a href="https://discord.com/users/ayousocrazy" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="40"/>
-  </a>
-
-  <a href="mailto:ayousocrazy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-  </a>
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/ayousocrazy/ayousocrazy/output/snake.svg" alt="Snake animation"/>
-
-<h2 align="left">👀 Profile Views</h2>
-
-<img align="right"
-     height="175"
-     loading="lazy"
-     src="https://31.media.tumblr.com/a341d1f767b05251792b7c021b06d909/tumblr_msavr9itu81scncwdo1_500.gif?raw=true"
-     alt="looping gif"/>
+<h2 align="left">📈 Contribution Activity (Last 30 Days)</h2>
 
 <div align="center">
-  <img src="https://count.getloli.com/@ayousocrazy?theme=booru-vp&padding=7&offset=13&scale=1&pixelated=1&darkmode=auto"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayousocrazy&theme=dracula&days=30&hide_border=true"
+       alt="GitHub Contribution Graph"/>
 </div>
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayousocrazy&layout=compact&langs_count=5&theme=dracula"/>
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/ayousocrazy/ayousocrazy/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/ayousocrazy/ayousocrazy/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" 
+    src="https://raw.githubusercontent.com/ayousocrazy/ayousocrazy/output/pacman-contribution-graph.svg">
+</picture>
