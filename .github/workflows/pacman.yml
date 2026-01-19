@@ -6,20 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk/svg-only@v3
+      - name: Generate Pacman
+        uses: Yashiromann/pacman-contribution-graph@main
         with:
           github_user_name: ayousocrazy
-          outputs: |
-            output/pacman-contribution-graph.svg
-            output/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Push changes
+      - name: Commit files
         uses: EndBug/add-and-commit@v9
         with:
           message: "Generate pacman contribution graph"
-          add: "output"
+          add: "dist"
