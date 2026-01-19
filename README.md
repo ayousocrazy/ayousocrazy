@@ -75,12 +75,3 @@ I also enjoy designing logos.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayousocrazy&layout=compact&langs_count=5&theme=dracula"/>
 </div>
-
----
-
-<picture>
-  <img
-    alt="pacman contribution graph"
-    src="https://raw.githubusercontent.com/ayousocrazy/ayousocrazy/main/dist/pacman-contribution-graph.svg">
-</picture>
-
