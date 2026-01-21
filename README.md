@@ -70,7 +70,7 @@ I also enjoy designing logos.
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left">📊 Most Used Languages</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayousocrazy&layout=compact&langs_count=5&theme=dracula"/>
