@@ -9,14 +9,6 @@
 🎨 Designer when I don't code
 </p>
 
-<p align="left">
-I’m a Computer Science student who likes turning ideas into working products —<br/>
-from backend logic in Django to frontend interfaces with HTML, CSS & JS.<br/>
-When I’m not debugging web apps,<br/>
-I’m exploring AI and Data.<br/>
-I also enjoy designing logos.
-</p>
-
 ---
 
 <h2 align="left">📫 Socials</h2>
